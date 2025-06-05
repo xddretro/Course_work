@@ -129,10 +129,14 @@
   <ItemGroup>
     <ClCompile Include="Course_work.cpp" />
     <ClCompile Include="CustomDate.cpp" />
+    <ClCompile Include="Event.cpp" />
+    <ClCompile Include="FamilyManager.cpp" />
     <ClCompile Include="Person.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CustomDate.h" />
+    <ClInclude Include="Event.h" />
+    <ClInclude Include="FamilyManager.h" />
     <ClInclude Include="Person.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
