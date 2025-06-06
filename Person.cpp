@@ -7,7 +7,6 @@ std::string genderToString(Gender gender) {
     switch (gender) {
     case Gender::MALE:    return "Мужской";
     case Gender::FEMALE:  return "Женский";
-    case Gender::UNKNOWN: return "Неизвестно";
     default:              return "Не указан";
     }
 }

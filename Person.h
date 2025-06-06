@@ -11,7 +11,6 @@ class MarriageEvent;
 class FamilyManager;
 
 enum class Gender {
-    UNKNOWN,
     MALE,
     FEMALE
 };

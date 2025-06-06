@@ -130,14 +130,20 @@
     <ClCompile Include="Course_work.cpp" />
     <ClCompile Include="CustomDate.cpp" />
     <ClCompile Include="Event.cpp" />
+    <ClCompile Include="EventLogger.cpp" />
     <ClCompile Include="FamilyManager.cpp" />
     <ClCompile Include="Person.cpp" />
+    <ClCompile Include="TreePrinter.cpp" />
+    <ClCompile Include="UI.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CustomDate.h" />
     <ClInclude Include="Event.h" />
+    <ClInclude Include="EventLogger.h" />
     <ClInclude Include="FamilyManager.h" />
     <ClInclude Include="Person.h" />
+    <ClInclude Include="TreePrinter.h" />
+    <ClInclude Include="UI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
